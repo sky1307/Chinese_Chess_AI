@@ -1,0 +1,6 @@
+PyQt5
+pygame
+numpy
+xlrd
+xlutils.copy
+tensorflow==1.15.2
